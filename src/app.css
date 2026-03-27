@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* 
+  Custom global styles can go here. 
+  By default, Tailwind handles most resets and utilities.
+*/
+
+html.dark {
+  color-scheme: dark;
+}
