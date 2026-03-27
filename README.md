@@ -1,5 +1,3 @@
-# 4ff468ac35add88a6a56912a3460b302cface4e8a397721cc236d54e12ef5f56
-
 # Svelte + Tailwind Notes App
 
 A fast, fully responsive, offline-first notes application built using **Svelte 5**, **TypeScript**, and **TailwindCSS v4**.
