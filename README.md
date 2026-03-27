@@ -4,8 +4,8 @@ A fast, fully responsive, offline-first notes application built using **Svelte 5
 
 ## 🔗 Links
 - **GitHub Repository**: [https://github.com/KRISHNA-165/Scriba](https://github.com/KRISHNA-165/Scriba.git)
-- **Video Walkthrough**: [Link to Video (1-3 min)]
-- **Live Demo**: [Link to Deployed App (Vercel/Netlify)]
+- **Video Walkthrough**: https://www.loom.com/share/215ded40ef8a40859e0b5c3ff7090c53
+- **Live Demo**: https://scriba-six.vercel.app/
 
 ## ✨ Features
 - **Full CRUD**: View, create, edit, and delete notes.
